@@ -1,0 +1,24 @@
+h1{
+    color: purple;/*esto es un comentario*/
+    text-transform: uppercase;
+    background-color: darksalmon;
+    text-align: center;
+    font-family: Verdana;
+    border: 3px solid black;
+}
+h2{
+    color: springgreen;
+    background-color: lightcoral;
+    font-family: Verdana;
+    font-size: 16px;
+   }
+   .destacados{
+    font-size: 14px;
+    color: blue;
+   }
+   #caja{
+    background-color: rgb(156, 250, 14);
+    width: 200px;
+    height: 200px;
+    padding: 15px;
+       }
